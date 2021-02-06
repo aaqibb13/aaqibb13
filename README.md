@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Aaqib!
-<img src="https://github.com/aaqibb13/aaqibb13/blob/main/Image/enigma.jpg" width="1000" height="500"/>
+<img src="https://github.com/aaqibb13/aaqibb13/blob/main/Image/TCB.JPG" width="1200" height="400"/>
 
 #### About me:
 - 🔭 I’m currently working on Django based stuff
