@@ -2,6 +2,15 @@
   <h1>
     Aaqib Bashir
   </h1>
+  <h2>
+    [![alt text][1.1]][1]
+    [![alt text][2.1]][2]
+    [![alt text][6.1]][6]
+    [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+    [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+    [1]: http://www.twitter.com/aaqibb13
+    [2]: http://www.github.com/aaqibb13
+  </h2>
 </div>
 <img src="https://github.com/aaqibb13/aaqibb13/blob/main/Image/TCB.JPG" width="1000" height="500"/>
 
