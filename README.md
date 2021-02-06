@@ -26,3 +26,9 @@
 - Twitter: [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='15'>](https://twitter.com/aaqibb13)
 - Gmail: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='15'>](aaqibb13@gmail.com)
 - Researchgate: [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='researchgate' height='15'>](https://www.researchgate.net/profile/Aaqib_Bashir2)
+
+<div align="center"> 
+  <h3>
+    Made with :heart: by [Aaqib Bashir](https://www.github.com/aaqibb13)
+  </h3>
+ </div>
