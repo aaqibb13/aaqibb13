@@ -12,7 +12,7 @@
 - 👯 I’m looking to do a research collaboration in Cryptography and in developing primitives
 - 🤔 I’m looking for help mostly in the development of Lattice based primitives in Python or Rust and security proofs of cryptographic primitives
 - 💬 Ask me about Cryptography or Research in general
-- 📫 How to reach me: **You can reach me via** [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='14'>](https://www.linkedin.com/in/aaqibbashir/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='15'>](https://twitter.com/aaqibb13) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='15'>](aaqibb13@gmail.com)
+- 📫 How to reach me: **You can reach me via** [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='14'>](https://www.linkedin.com/in/aaqibbashir/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='15'>](https://twitter.com/aaqibb13) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='15'>](https://mail.google.com/mail/u/0/aaqibb13@gmail.com)
 
 <!-- #### Publications:
 1. Applicability of Mobile Contact Tracing in Fighting Pandemic (COVID-19): Issues, Challenges and Solutions. [Link to the article](https://www.sciencedirect.com/science/article/abs/pii/S157401372030407X), DOI: [https://doi.org/10.1016/j.cosrev.2020.100307](https://doi.org/10.1016/j.cosrev.2020.100307)
