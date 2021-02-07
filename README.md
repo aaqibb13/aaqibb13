@@ -30,6 +30,6 @@
 
 <div align="center"> 
   <h3>
-    Made with :heart: by <a href="https://www.github.com/aaqibb13">Aaqib Bashir</a>
+    Made with :heart: and :computer: by <a href="https://www.github.com/aaqibb13">Aaqib Bashir</a>
   </h3>
  </div>
