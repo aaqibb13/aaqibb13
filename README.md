@@ -1,7 +1,10 @@
 <div align="center"> 
   <h1>
-    Aaqib Bashir
+    Hey Folks, I'm Aaqib Bashir :nerd_face:
   </h1>
+  <h3>
+    <a href="https://www.linkedin.com/in/aaqibbashir">LinkedIn</a> :black_small_square: <a href="https://www.twitter.com/aaqibb13">Twitter</a> :black_small_square: <a href="https://www.researchgate.net/profile/Aaqib_Bashir2">ResearchGate</a>
+  </h3>
  </div>
 
 <img src="https://github.com/aaqibb13/aaqibb13/blob/main/Image/TCB.JPG" width="1000" height="500"/>
@@ -31,19 +34,14 @@
 4. Group Testing: Leveraging a Mathematical Tool for Effective COVID-19 Testing. **Suggested Citation:** (Dar, Aaqib Bashir and Lone, Auqib Hamid and Naaz, Roohie, Group Testing: Leveraging a Mathematical Tool for Effective COVID-19 Testing (April 11, 2020). Available at SSRN: https://ssrn.com/abstract=3678103 or http://dx.doi.org/10.2139/ssrn.3678103), DOI: [http://dx.doi.org/10.2139/ssrn.3678103](http://dx.doi.org/10.2139/ssrn.3678103)
 
 
-<!--#### Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aaqibb13&show_icons=true&count_private=true) -->
-
 <div align="center"> 
-  <h2>
-    Social:
-  </h2>
- </div>
+  <h3>
+    Stats:
+  </h3>
+</div>
 
-- LinkedIn: [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='15'>](https://www.linkedin.com/in/aaqibbashir/)
-- Twitter: [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='15'>](https://twitter.com/aaqibb13)
-- Gmail: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='15'>](https://mail.google.com/mail/aaqibb13@gmail.com)
-- Researchgate: [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='researchgate' height='15'>](https://www.researchgate.net/profile/Aaqib_Bashir2)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aaqibb13&show_icons=true&count_private=true)
+
 
 <div align="center"> 
   <h3>
