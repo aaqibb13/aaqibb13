@@ -6,9 +6,9 @@
 
 <img src="https://github.com/aaqibb13/aaqibb13/blob/main/Image/TCB.JPG" width="1000" height="500"/>
 <div align="center"> 
-  <h3>
-    About Me:
-  </h3>
+  <h2>
+    About:
+  </h2>
  </div>
  
 - 🔭 I’m currently working on Django based stuff
@@ -19,7 +19,12 @@
 - :memo: Sometimes, I write on medium too
 - 📫 How to reach me: **You can reach me via** [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='14'>](https://www.linkedin.com/in/aaqibbashir/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='15'>](https://twitter.com/aaqibb13) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='15'>](https://mail.google.com/mail/aaqibb13@gmail.com)
 
- #### Publications:
+<div align="center"> 
+  <h2>
+    Publications:
+  </h2>
+ </div>
+
 1. Applicability of Mobile Contact Tracing in Fighting Pandemic (COVID-19): Issues, Challenges and Solutions. [Link to the article](https://www.sciencedirect.com/science/article/abs/pii/S157401372030407X), DOI: [https://doi.org/10.1016/j.cosrev.2020.100307](https://doi.org/10.1016/j.cosrev.2020.100307)
 2. Taxonomy of Blockchain Driven Access Control Frameworks, Models and Schemes for IoT. (To Appear) 
 3. Blockchain Driven Access Control Mechanisms, Models and Frameworks: A Systematic Literature Review (Under Review). [Suggested Citation](Dar, Aaqib Bashir, Blockchain Driven Access Control Mechanisms, Models and Frameworks: A Systematic Literature Review (September 20, 2020). Available at SSRN: https://ssrn.com/abstract=3704466 or http://dx.doi.org/10.2139/ssrn.3704466), DOI: [http://dx.doi.org/10.2139/ssrn.3704466](http://dx.doi.org/10.2139/ssrn.3704466)
@@ -29,7 +34,12 @@
 <!--#### Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aaqibb13&show_icons=true&count_private=true) -->
 
-#### Social:
+<div align="center"> 
+  <h2>
+    Social:
+  </h2>
+ </div>
+
 - LinkedIn: [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='15'>](https://www.linkedin.com/in/aaqibbashir/)
 - Twitter: [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='15'>](https://twitter.com/aaqibb13)
 - Gmail: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='15'>](https://mail.google.com/mail/aaqibb13@gmail.com)
