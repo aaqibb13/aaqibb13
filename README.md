@@ -1,7 +1,5 @@
 <div align="center"> 
-  <h1>
-    Aaqib Bashir
-  </h1>
+  <h1 style="color:#00FF00">Aaqib Bashir</h1>
  </div>
 
 <img src="https://github.com/aaqibb13/aaqibb13/blob/main/Image/TCB.JPG" width="1000" height="500"/>
