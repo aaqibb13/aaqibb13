@@ -5,8 +5,12 @@
  </div>
 
 <img src="https://github.com/aaqibb13/aaqibb13/blob/main/Image/TCB.JPG" width="1000" height="500"/>
-
-#### About me:
+<div align="center"> 
+  <h3>
+    About Me:
+  </h3>
+ </div>
+ 
 - 🔭 I’m currently working on Django based stuff
 - 🌱 Currently learning Lattices and their role in designing Post Quantum primitives
 - 👯 I’m looking for a research collaboration in Cryptography and in developing primitives
