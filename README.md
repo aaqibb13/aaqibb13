@@ -29,8 +29,11 @@
  </div>
 
 1. Applicability of Mobile Contact Tracing in Fighting Pandemic (COVID-19): Issues, Challenges and Solutions. [Link to the article](https://www.sciencedirect.com/science/article/abs/pii/S157401372030407X), DOI: [https://doi.org/10.1016/j.cosrev.2020.100307](https://doi.org/10.1016/j.cosrev.2020.100307)
+
 2. Taxonomy of Blockchain Driven Access Control Frameworks, Models and Schemes for IoT. (To Appear) 
+
 3. Blockchain Driven Access Control Mechanisms, Models and Frameworks: A Systematic Literature Review (Under Review). **Suggested Citation:** (Dar, Aaqib Bashir, Blockchain Driven Access Control Mechanisms, Models and Frameworks: A Systematic Literature Review (September 20, 2020). Available at SSRN: https://ssrn.com/abstract=3704466 or http://dx.doi.org/10.2139/ssrn.3704466), DOI: [http://dx.doi.org/10.2139/ssrn.3704466](http://dx.doi.org/10.2139/ssrn.3704466)
+
 4. Group Testing: Leveraging a Mathematical Tool for Effective COVID-19 Testing. **Suggested Citation:** (Dar, Aaqib Bashir and Lone, Auqib Hamid and Naaz, Roohie, Group Testing: Leveraging a Mathematical Tool for Effective COVID-19 Testing (April 11, 2020). Available at SSRN: https://ssrn.com/abstract=3678103 or http://dx.doi.org/10.2139/ssrn.3678103), DOI: [http://dx.doi.org/10.2139/ssrn.3678103](http://dx.doi.org/10.2139/ssrn.3678103)
 
 
