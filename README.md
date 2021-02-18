@@ -2,10 +2,10 @@
   <h1>
     Hey Folks, I'm Aaqib Bashir :wave:
   </h1>
-  <h3>
+<h3>
     <a href="https://www.linkedin.com/in/aaqibbashir">LinkedIn</a> :black_small_square: <a href="https://www.twitter.com/aaqibb13">Twitter</a> :black_small_square: <a href="https://www.researchgate.net/profile/Aaqib_Bashir2">ResearchGate</a>
-  </h3>
- </div>
+</h3>
+</div>
 
 <img src="https://github.com/aaqibb13/aaqibb13/blob/main/Image/TCB.JPG" width="1000" height="500"/>
 <div align="center"> 
