@@ -16,7 +16,7 @@
  
 - 🔭 **I’m currently working on Django based stuff**
 - 🌱 **Currently learning Lattices and their role in designing Post Quantum primitives**
-- 👯 **I’m looking for a research collaboration in Cryptography and in developing primitives**
+- 👯 **I’m looking for a research collaboration in Cryptography**
 - 🤔 **I’m looking for help mostly in the development of Lattice based primitives in Python and security proofs of cryptographic primitives**
 - 💬 **Ask me about Cryptography or Research in general**
 - :memo: **Sometimes, I write on medium too**
