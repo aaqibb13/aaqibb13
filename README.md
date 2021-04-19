@@ -34,6 +34,8 @@
 
 4. **Group Testing: Leveraging a Mathematical Tool for Effective COVID-19 Testing (Under Review).** **Suggested Citation:** (Dar, Aaqib Bashir and Lone, Auqib Hamid and Naaz, Roohie, Group Testing: Leveraging a Mathematical Tool for Effective COVID-19 Testing (April 11, 2020). Available at SSRN: https://ssrn.com/abstract=3678103 or http://dx.doi.org/10.2139/ssrn.3678103), DOI: [http://dx.doi.org/10.2139/ssrn.3678103](http://dx.doi.org/10.2139/ssrn.3678103)
 
+5. **Revisiting Lightweight Block Ciphers: Review, Taxonomy and Future Directions.** [Link to the article](https://www.eprint.iacr.org/2021/476) (Under Review in Computer Science Review)
+
 <!-- <div align="center"> 
   <h3>
     Stats:
