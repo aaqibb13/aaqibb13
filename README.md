@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    Hey Folks, I'm Aaqib Bashir :wave:
+    Hey Folks, I'm Aaqib Bashir <img src="https://github.com/aaqibb13/aaqibb13/blob/main/Image/Hi.gif" width="30" height="30"/>
   </h1>
 <h3>
     <a href="https://www.linkedin.com/in/aaqibbashir">LinkedIn</a> :black_small_square: <a href="https://www.twitter.com/aaqibb13">Twitter</a> :black_small_square: <a href="https://www.researchgate.net/profile/Aaqib_Bashir2">ResearchGate</a>
