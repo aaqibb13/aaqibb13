@@ -24,7 +24,7 @@
   <h2>
     Publications:
   </h2>
- </div>
+
 
 1. **Applicability of Mobile Contact Tracing in Fighting Pandemic (COVID-19): Issues, Challenges and Solutions.** [Link to the article](https://www.sciencedirect.com/science/article/abs/pii/S157401372030407X), DOI: [https://doi.org/10.1016/j.cosrev.2020.100307](https://doi.org/10.1016/j.cosrev.2020.100307)
 
@@ -36,6 +36,7 @@
 
 5. **Revisiting Lightweight Block Ciphers: Review, Taxonomy and Future Directions.** [Link to the article](https://www.eprint.iacr.org/2021/476) (Under Review in Computer Science Review)
 
+ </div>
 <!-- <div align="center"> 
   <h3>
     Stats:
