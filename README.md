@@ -7,7 +7,7 @@
 </h3>
 </div>
 
-<img src="https://github.com/aaqibb13/aaqibb13/blob/main/Image/TCB.JPG" width="1000" height="500"/>
+<!-- <img src="https://github.com/aaqibb13/aaqibb13/blob/main/Image/TCB.JPG" width="1000" height="500"/> -->
 <div align="center"> 
   <h2>
     About:
