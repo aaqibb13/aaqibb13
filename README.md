@@ -14,7 +14,7 @@
     About:
   </h2>
  
-  🔭 **I’m currently working on Python, fastAPI and ArangoDB** <br>
+  🔭 **I’m currently working with Python, gRPC, fastAPI and ArangoDB** <br>
   🌱 **ALso learning Lattices and their role in designing Post Quantum primitives** <br>
   💬 **Ask me about Cryptography or Research in general** <br>
   :memo: **Sometimes, I write on medium too** <br>
