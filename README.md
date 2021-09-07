@@ -9,7 +9,7 @@
 <div align="center">
 <img src="https://github.com/aaqibb13/aaqibb13/blob/main/Image/TCB.JPG" width="800" height="400"/>
  </div>
-<div align="center"> 
+<div align="center">
   <h2>
     About:
   </h2>
