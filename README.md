@@ -15,7 +15,6 @@
   </h2>
  
   🔭 **I’m currently working with Python, gRPC, fastAPI and ArangoDB** <br>
-  🌱 **ALso learning Lattices and their role in designing Post Quantum primitives** <br>
   💬 **Ask me about Cryptography or Research in general** <br>
   :memo: **Sometimes, I write on medium too** <br>
   📫 **You can reach me via:**   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='14'>](https://www.linkedin.com/in/aaqibbashir/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='15'>](https://twitter.com/aaqibb13) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='15'>](https://mail.google.com/mail/aaqibb13@gmail.com)
@@ -26,7 +25,7 @@
   </h3>
 </div> !-->
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aaqibb13&show_icons=true&count_private=true) !-->
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aaqibb13&show_icons=true&count_private=true)
 
 <div align="center"> 
   <h3>
