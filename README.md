@@ -3,7 +3,7 @@
     Hey Folks, I'm Aaqib Bashir <img src="https://github.com/aaqibb13/aaqibb13/blob/main/Image/Hi.gif" width="30" height="30"/>
   </h3>
 <h3>
-    <a href="https://www.linkedin.com/in/aaqibbashir">LinkedIn</a> :black_small_square: <a href="https://www.twitter.com/severeglonk">Twitter</a> :black_small_square: <a href="https://www.researchgate.net/profile/Aaqib_Bashir2">ResearchGate</a> ▪️ <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=sH2xEZ8AAAAJ">Google Scholar</a>
+    <a href="https://www.linkedin.com/in/aaqibbashir">LinkedIn</a> ◼️ <a href="https://www.twitter.com/severeglonk">Twitter</a> ◼️ <a href="https://www.researchgate.net/profile/Aaqib_Bashir2">ResearchGate</a> ◼️ <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=sH2xEZ8AAAAJ">Google Scholar</a>
 </h3>
 </div>
 <!-- <div align="center">
